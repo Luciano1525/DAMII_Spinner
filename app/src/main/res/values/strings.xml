@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Spinner - Luciano Bacab</string>
+    <string-array name="Frutas">
+        <item>Frutas</item>
+        <item>Manzana</item>
+        <item>Pera</item>
+        <item>Sandia</item>
+        <item>Platano</item>
+        <item>Durazno</item>
+    </string-array>
+
+</resources>
